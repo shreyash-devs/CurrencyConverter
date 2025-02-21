@@ -13,7 +13,7 @@ A simple web-based currency converter using HTML, CSS, and JavaScript. Includes 
 3. Click "Convert"  
 
 # Live Demo  
-[View Here] CurrencyConverter.netlify.app 
+[View Here](https://CurrencyConverter.netlify.app) 
 
 
 📩 For inquiries & collaborations: shreyashdevs.work@gmail.com 
